@@ -1,0 +1,264 @@
+{
+  "version": 1,
+  "base_track": "Shooting Star",
+  "base_artist": "Jams Collection",
+  "createdAt": "2025-12-30T05:58:03.146591Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Shooting Star",
+      "artist": "Lou Reed",
+      "has_synced": false,
+      "path": "select/01_Shooting_Star_Lou_Reed.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Shooting Star",
+      "artist": "The Mamas & The Papas",
+      "has_synced": false,
+      "path": "select/02_Shooting_Star_The_Mamas_&_The_Papas.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Shooting Star",
+      "artist": "Owl City",
+      "has_synced": true,
+      "path": "select/03_Shooting_Star_Owl_City.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Shooting Star - Acoustic",
+      "artist": "Owl City",
+      "has_synced": true,
+      "path": "select/04_Shooting_Star_-_Acoustic_Owl_City.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Shooting Star (acoustic)",
+      "artist": "Owl City",
+      "has_synced": true,
+      "path": "select/05_Shooting_Star_(acoustic)_Owl_City.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Shooting Star",
+      "artist": "Cocoon",
+      "has_synced": false,
+      "path": "select/06_Shooting_Star_Cocoon.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Shooting Star",
+      "artist": "Bad Company",
+      "has_synced": false,
+      "path": "select/07_Shooting_Star_Bad_Company.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Shooting Star",
+      "artist": "Bad Company",
+      "has_synced": true,
+      "path": "select/08_Shooting_Star_Bad_Company.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Shooting Star",
+      "artist": "Poison",
+      "has_synced": false,
+      "path": "select/09_Shooting_Star_Poison.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Shooting Star",
+      "artist": "Iced Earth",
+      "has_synced": true,
+      "path": "select/10_Shooting_Star_Iced_Earth.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Shooting Star (Bonus Track)",
+      "artist": "Iced Earth",
+      "has_synced": false,
+      "path": "select/11_Shooting_Star_(Bonus_Track)_Iced_Earth.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Shooting star (bonustrack)",
+      "artist": "Iced Earth",
+      "has_synced": false,
+      "path": "select/12_Shooting_star_(bonustrack)_Iced_Earth.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Shooting Star",
+      "artist": "Labyrinth",
+      "has_synced": true,
+      "path": "select/13_The_Shooting_Star_Labyrinth.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Shooting Star",
+      "artist": "Carly Rae Jepsen",
+      "has_synced": true,
+      "path": "select/14_Shooting_Star_Carly_Rae_Jepsen.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Shooting Star",
+      "artist": "MUNA",
+      "has_synced": true,
+      "path": "select/15_Shooting_Star_MUNA.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Shooting Star",
+      "artist": "Puddle of Mudd",
+      "has_synced": true,
+      "path": "select/16_Shooting_Star_Puddle_of_Mudd.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Shooting Star",
+      "artist": "Bob Dylan",
+      "has_synced": true,
+      "path": "select/17_Shooting_Star_Bob_Dylan.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Shooting Star (Live)",
+      "artist": "Bad Company",
+      "has_synced": false,
+      "path": "select/18_Shooting_Star_(Live)_Bad_Company.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Shooting Star",
+      "artist": "Tesla",
+      "has_synced": true,
+      "path": "select/19_Shooting_Star_Tesla.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Shooting at the Moon",
+      "artist": "Mariel Buckley",
+      "has_synced": false,
+      "path": "select/20_Shooting_at_the_Moon_Mariel_Buckley.txt"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Shooting at the Moon",
+      "artist": "Mariel Buckley",
+      "has_synced": true,
+      "path": "select/21_Shooting_at_the_Moon_Mariel_Buckley.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Shooting Stars",
+      "artist": "Kelis",
+      "has_synced": true,
+      "path": "select/22_Shooting_Stars_Kelis.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Shooting Stars",
+      "artist": "Billy Idol",
+      "has_synced": true,
+      "path": "select/23_Shooting_Stars_Billy_Idol.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Shooting Stars",
+      "artist": "Bag Raiders",
+      "has_synced": true,
+      "path": "select/24_Shooting_Stars_Bag_Raiders.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Shooting From the Hip",
+      "artist": "Chicks on Speed",
+      "has_synced": false,
+      "path": "select/25_Shooting_From_the_Hip_Chicks_on_Speed.txt"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "I'M Shooting High",
+      "artist": "Nat King Cole",
+      "has_synced": false,
+      "path": "select/26_I'M_Shooting_High_Nat_King_Cole.txt"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "I'm Shooting High (Remastered)",
+      "artist": "Nat King Cole",
+      "has_synced": false,
+      "path": "select/27_I'm_Shooting_High_(Remastered)_Nat_King_Cole.txt"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "Shooting Rockets (From the Desk of Night's Ape)",
+      "artist": "Destroyer",
+      "has_synced": false,
+      "path": "select/28_Shooting_Rockets_(From_the_Desk_of_Night's_Ape)_Destroyer.txt"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "Shooting Rockets (From the Desk of Night's Ape)",
+      "artist": "Destroyer",
+      "has_synced": true,
+      "path": "select/29_Shooting_Rockets_(From_the_Desk_of_Night's_Ape)_Destroyer.lrc"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "Shooting Sun (Janice Long Show 11.1.87)",
+      "artist": "Siouxsie & The Banshees",
+      "has_synced": false,
+      "path": "select/30_Shooting_Sun_(Janice_Long_Show_11.1.87)_Siouxsie_&_The_Banshees.txt"
+    },
+    {
+      "id": "lrclib_31",
+      "source": "lrclib",
+      "title": "Shooting Sun (Janice Long Show 11.1.87)",
+      "artist": "Siouxsie and the Banshees",
+      "has_synced": false,
+      "path": "select/31_Shooting_Sun_(Janice_Long_Show_11.1.87)_Siouxsie_and_the_Banshees.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Shooting Star",
+      "artist": "Jams Collection",
+      "has_synced": false,
+      "path": "select/pl_01_Shooting_Star_Jams_Collection.txt"
+    }
+  ]
+}
